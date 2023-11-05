@@ -25,8 +25,8 @@ jobs:
     - name: Install dependencies
       run: |
         echo WORKFLOW ${{ env.RUN_WORKFLOW }}
-        sudo -H pip3 install poetry
-        poetry install
+        #sudo -H pip3 install poetry
+        #poetry install
         
     
     - name: Model run
