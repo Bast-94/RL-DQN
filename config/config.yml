@@ -1,0 +1,5 @@
+CONFIG_DIR: config
+DATA_DIR: data
+LOG_DIR: log
+MODEL_DIR: models
+SRC_DIR: src

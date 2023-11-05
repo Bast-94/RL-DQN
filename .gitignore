@@ -171,3 +171,5 @@ output
 *.avi
 trials.py
 to_markdown.py
+
+secretdir
