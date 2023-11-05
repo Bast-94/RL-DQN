@@ -1,2 +1,2 @@
 print('NEED TO ADD CODE HERE')
-print('HAVA A NICE DAY')
+print('HAVE A NICE DAY')
