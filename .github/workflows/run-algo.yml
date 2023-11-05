@@ -26,6 +26,7 @@ jobs:
       run: |
         sudo -H pip3 install poetry
         poetry install
+        echo $RUN_WORKFLOW
     
     - name: Model run
       run: |
