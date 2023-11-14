@@ -21,7 +21,10 @@ imageio = {version ="^2.31.6", allow-prereleases = true}
 pandas = {version ="^2.1.2", allow-prereleases = true}
 tabulate = {version ="^0.9.0", allow-prereleases = true}
 py-utils = {git = "https://github.com/Bast-94/utils.git"}
-torch = "^2.1.0"
+torch = ">=2.0.0, !=2.0.1, !=2.1.0"
+
+
+
 
 [build-system]
 requires = ["poetry-core"]
